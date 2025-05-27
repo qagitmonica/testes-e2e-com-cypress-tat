@@ -11,10 +11,6 @@ export default defineConfig({
     env: {
       viewportWidthBreakpoint: 768,
     },
-
-    // Recomendado pelo Cypress (mesmo que vazio)
-    setupNodeEvents(on, config) {
-      // implement node event listeners here if needed
-    },
   },
+  projectId: 'ctf69n',
 })
