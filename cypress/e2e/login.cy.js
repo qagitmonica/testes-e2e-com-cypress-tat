@@ -1,3 +1,5 @@
+/// <reference path="../support/commands.d.ts" />
+
 // cypress/support/commands.js
 
 // ... outros comandos, como signup, etc.
